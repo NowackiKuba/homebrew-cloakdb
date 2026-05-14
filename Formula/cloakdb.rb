@@ -1,7 +1,7 @@
 class Cloakdb < Formula
   desc "GDPR-safe test data generation CLI"
   homepage "https://cloakdb.dev"
-  version "0.1.0"
+  version "0.1.1"
 
   on_macos do
     if Hardware::CPU.arm?
